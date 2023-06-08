@@ -1,7 +1,6 @@
-# Trillo-Project ![Trillo-Logo](img/logo.png 'Trillo-Logo')
+# ![Trillo-Logo](img/logo.png 'Trillo-Logo') Trillo-Project
 
-**The Trillo-project is deployed and live now:
-[Click Here !](https://trillo-booking-athome.netlify.app/)😍🥳🎉**
+#### \*\*The Trillo-project is deployed and live now: [Click Here !](https://trillo-booking-athome.netlify.app/)😍🥳🎉\*\*
 
 ## Table of Contents
 
